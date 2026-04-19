@@ -12,22 +12,22 @@ const PRODUCTS = [
   },
   { 
     id: 2, 
-    name: "Charlotte Tilbury Hollywood Flawless Filter", 
+    name: "Make Me Blush 24H Buildable Powder Blush", 
     category: "face", 
     price: 48.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2935195-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Charlotte Tilbury",
+    brand: "Yves Saint Laurent",
     description: "Glow booster and complexion enhancer"
   },
   { 
     id: 3, 
-    name: "Tower 28 ShineOn Lip Jelly", 
+    name: "Make Me Blush 12H Blurring Liquid Blush", 
     category: "lip", 
     price: 16.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2872182-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Tower 28",
+    brand: "Yves Saint Laurent",
     description: "Non-sticky, high-shine lip gloss"
   },
   { 
@@ -42,62 +42,62 @@ const PRODUCTS = [
   },
   { 
     id: 5, 
-    name: "Tarte Shape Tape Concealer", 
+    name: "Mini Easy Blur Silicone-Free Smoothing & Pore-Minimizing Primer", 
     category: "face", 
     price: 31.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2888832-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Tarte",
+    brand: "Huda Beauty",
     description: "Full-coverage, long-wearing concealer"
   },
   { 
     id: 6, 
-    name: "Too Faced Better Than Sex Mascara", 
+    name: "Lash Clash Extreme Volume Mascara", 
     category: "eyes", 
     price: 28.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2638336-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Too Faced",
+    brand: "Yves Saint Laurent",
     description: "Volumizing and lengthening mascara"
   },
   { 
     id: 7, 
-    name: "NARS Radiant Creamy Concealer", 
+    name: "Couture Mini Clutch Eyeshadow Palette", 
     category: "face", 
     price: 31.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2873453-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "NARS",
+    brand: "Yves Saint Laurent",
     description: "Award-winning concealer with medium-to-full buildable coverage"
   },
   { 
     id: 8, 
-    name: "Urban Decay All Nighter Setting Spray", 
+    name: "YSL Candy Glaze Lip Gloss Stick", 
     category: "face", 
     price: 36.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2511335-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Urban Decay",
+    brand: "Yves Saint Laurent",
     description: "Long-lasting makeup setting spray that keeps makeup in place for up to 16 hours"
   },
   { 
     id: 9, 
-    name: "Kilian Paris Love Don't Be Shy Eau de Parfum", 
+    name: "YSL Loveshine Plumping Lip Oil Gloss", 
     category: "fragrance", 
     price: 275.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2830172-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Kilian Paris",
+    brand: "Yves Saint Laurent",
     description: "Luxury fragrance with notes of marshmallow, orange blossom, and bergamot"
   },
   { 
     id: 10, 
-    name: "Sol de Janeiro Brazilian Bum Bum Cream", 
+    name: "Backstage Face & Body Foundation", 
     category: "body", 
     price: 48.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2669539-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Sol de Janeiro",
+    brand: "Dior",
     description: "Firming and toning body cream with guaraná, cupuaçu, and açaí"
   }
 ];
