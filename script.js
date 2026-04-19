@@ -2,12 +2,12 @@
 const PRODUCTS = [
   { 
     id: 1, 
-    name: "Rare Beauty Soft Pinch Liquid Blush", 
+    name: "Backstage Glow Maximizer Face Palette", 
     category: "face", 
     price: 23.00, 
     imageUrl: "https://www.sephora.com/productimages/sku/s2882553-main-zoom.jpg?imwidth=1224",
     featured: true,
-    brand: "Rare Beauty",
+    brand: "Dior",
     description: "Highly pigmented liquid blush for a natural flush"
   },
   { 
